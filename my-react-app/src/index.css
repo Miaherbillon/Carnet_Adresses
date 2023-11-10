@@ -1,0 +1,13 @@
+.Liste {
+    border: 1px solid rgba(116, 113, 113, 0.222);
+    background-color: rgba(0, 115, 255, 0.141);
+    padding: 1rem;
+    display: flex;
+    gap: 1rem;
+}
+.containerListe{
+    border: 5px solid rgb(200, 200, 200);
+    border-radius: 1rem;
+    min-height: 50vh;
+    margin: 3rem 0;
+}
